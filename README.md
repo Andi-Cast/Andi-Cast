@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andi Castillo-Mauricio <br/><a href="www.linkedin.com/in/andi-castillo">Junior Software Engineer</a></h1>
+<h1>Hi, I'm Andi Castillo-Mauricio <br/><a href="https://www.linkedin.com/in/andi-castillo">Junior Software Engineer</a></h1>
 
 <h2>Projects:</h2>
 
