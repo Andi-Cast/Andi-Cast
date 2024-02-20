@@ -10,9 +10,3 @@
   - [Gym System](https://github.com/Andi-Cast/GymSystem)
 - <b>Python</b>
 
-
-
-<h2> 🤳 Connect with me:</h2>
-  <h3><a href= "https://github.com/Andi-Cast">GitHub</a></h3>
-  <h3><a href= "https://www.linkedin.com/in/andi-castillo">LinkedIn</a></h3>
- 
