@@ -3,6 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>C++</b>
+  - [Array_Class](https://github.com/Andi-Cast/Array_Class)
   - [Calculator 1.0](https://github.com/Andi-Cast/Calculator1.0_Calculator2.0/tree/main/Assignment3_Stack_Evaluation)
   - [Calculator 2.0](https://github.com/Andi-Cast/Calculator1.0_Calculator2.0/tree/main/Assignment4_Binary_Tree_Evaluation)
 - <b>Java</b>
