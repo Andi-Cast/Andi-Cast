@@ -12,3 +12,5 @@
   - [Gym System](https://github.com/Andi-Cast/GymSystem)
 - <b>Python</b>
 
+- <b>What am I currently working on?</b>
+  - I am currently working on getting some experience with Spring boot and databases such as MySQL and PostgreSQL. 
