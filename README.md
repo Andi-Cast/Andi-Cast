@@ -11,7 +11,7 @@
   - [Banking System](https://github.com/Andi-Cast/BankingSystem)
   - [Gym System](https://github.com/Andi-Cast/GymSystem)
 - <b>Python</b>
-  -[Face,Shoulder, and Hand Dector]()
+  - [Face,Shoulder, and Hand Dector]()
 
 - <b>What am I currently working on?</b>
   - I am currently working on getting some experience with Spring boot and databases such as MySQL and PostgreSQL. 
