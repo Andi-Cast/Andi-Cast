@@ -5,8 +5,8 @@
 - <b>C++</b>
   - [Array_Class](https://github.com/Andi-Cast/Array_Class)
   - [Composition](https://github.com/Andi-Cast/Composition)
-  - [Calculator 1.0](https://github.com/Andi-Cast/Stack_Based_Evaluator/tree/main)
-  - [Calculator 2.0](https://github.com/Andi-Cast/Binary_Tree_Evaluator)
+  - [Stack-Based Evaluator](https://github.com/Andi-Cast/Stack_Based_Evaluator/tree/main)
+  - [Tree-Based Evaluator](https://github.com/Andi-Cast/Binary_Tree_Evaluator)
 - <b>Java</b>
   - [Banking System](https://github.com/Andi-Cast/BankingSystem)
   - [Gym System](https://github.com/Andi-Cast/GymSystem)
