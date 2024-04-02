@@ -11,6 +11,7 @@
   - [Banking System](https://github.com/Andi-Cast/BankingSystem)
   - [Gym System](https://github.com/Andi-Cast/GymSystem)
   - [My First Spring Boot Application](https://github.com/Andi-Cast/FirstSpringBootApplication/tree/main)
+  - [JWT Spring Security](https://github.com/Andi-Cast/JWTSpringbootSecurity)
 - <b>Python</b>
   - [Face, Shoulder, and Hand Detector](https://github.com/Andi-Cast/Hand_Face_Shoulder_Detector)
 
