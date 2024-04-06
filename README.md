@@ -16,4 +16,4 @@
   - [Face, Shoulder, and Hand Detector](https://github.com/Andi-Cast/Hand_Face_Shoulder_Detector)
 
 - <b>What am I currently working on?</b>
-  - I am currently working on getting some experience with Spring boot and databases such as MySQL and PostgreSQL. 
+  - After working with Spring Boot, I am now investing some time into working with React.
