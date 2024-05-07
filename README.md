@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>React</b>
-  -[Workout Tracker] (https://github.com/Andi-Cast/WorkoutTracker)
+  -[Workout Tracker](https://github.com/Andi-Cast/WorkoutTracker)
   
 - <b>C++</b>
   - [Array Class](https://github.com/Andi-Cast/Array_Class)
