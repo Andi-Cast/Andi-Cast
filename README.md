@@ -4,7 +4,7 @@
 
 - <b>React</b>
   - [Workout Tracker](https://github.com/Andi-Cast/WorkoutTracker)
-  
+  - [Weather App](https://github.com/Andi-Cast/WeatherApp)  
 - <b>C++</b>
   - [Array Class](https://github.com/Andi-Cast/Array_Class)
   - [Composition](https://github.com/Andi-Cast/Composition)
