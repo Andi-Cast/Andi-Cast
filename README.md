@@ -3,8 +3,9 @@
 <h2>Projects:</h2>
 
 - <b>React</b>
+  - [Talent Point Job Board](https://github.com/Andi-Cast/TalentPointJobBoard)
   - [Workout Tracker](https://github.com/Andi-Cast/WorkoutTracker)
-  - [Weather App](https://github.com/Andi-Cast/WeatherApp)  
+  - [Weather App](https://github.com/Andi-Cast/WeatherApp)
 - <b>C++</b>
   - [Array Class](https://github.com/Andi-Cast/Array_Class)
   - [Composition](https://github.com/Andi-Cast/Composition)
