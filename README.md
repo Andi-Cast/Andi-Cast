@@ -3,6 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>React</b>
+  - [Real-Time Chat Application](https://github.com/Andi-Cast/chat-app)
   - [Talent Point Job Board](https://github.com/Andi-Cast/TalentPointJobBoard)
   - [Workout Tracker](https://github.com/Andi-Cast/WorkoutTracker)
   - [Weather App](https://github.com/Andi-Cast/WeatherApp)
