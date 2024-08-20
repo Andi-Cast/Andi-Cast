@@ -13,6 +13,7 @@
   - [Stack-Based Evaluator](https://github.com/Andi-Cast/Stack_Based_Evaluator/tree/main)
   - [Tree-Based Evaluator](https://github.com/Andi-Cast/Binary_Tree_Evaluator)
 - <b>Java</b>
+  - [Inventory Management API with JWT](https://github.com/Andi-Cast/inventory-app-api) 
   - [Banking System](https://github.com/Andi-Cast/BankingSystem)
   - [Gym System](https://github.com/Andi-Cast/GymSystem)
   - [My First Spring Boot Application](https://github.com/Andi-Cast/FirstSpringBootApplication/tree/main)
