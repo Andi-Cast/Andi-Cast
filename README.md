@@ -3,6 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>React</b>
+  - [Inventory App](https://github.com/Andi-Cast/inventory-app)
   - [Contact Management App](https://github.com/Andi-Cast/contact-app)
   - [Real-Time Chat Application](https://github.com/Andi-Cast/chat-app)
   - [Talent Point Job Board](https://github.com/Andi-Cast/TalentPointJobBoard)
