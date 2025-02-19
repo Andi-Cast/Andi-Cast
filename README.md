@@ -3,12 +3,8 @@
 <h2>Projects:</h2>
 
 - <b>React</b>
-  - [Inventory App](https://github.com/Andi-Cast/inventory-app)
-  - [Contact Management App](https://github.com/Andi-Cast/contact-app)
-  - [Real-Time Chat Application](https://github.com/Andi-Cast/chat-app)
-  - [Talent Point Job Board](https://github.com/Andi-Cast/TalentPointJobBoard)
+  - [Inventory App](https://github.com/Andi-Cast/inventory-app
   - [Workout Tracker](https://github.com/Andi-Cast/WorkoutTracker)
-  - [Weather App](https://github.com/Andi-Cast/WeatherApp)
 - <b>C++</b>
   - [Stack-Based Evaluator](https://github.com/Andi-Cast/Stack_Based_Evaluator/tree/main)
   - [Tree-Based Evaluator](https://github.com/Andi-Cast/Binary_Tree_Evaluator)
