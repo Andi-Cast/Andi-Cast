@@ -3,7 +3,8 @@
 <h2>Projects:</h2>
 
 - <b>React</b>
-  - [Inventory App](https://github.com/Andi-Cast/inventory-app
+  - [Crypto Tracker v1](https://github.com/Andi-Cast/CryptoTrackerApp1.0)
+  - [Inventory App](https://github.com/Andi-Cast/inventory-app)
   - [Workout Tracker](https://github.com/Andi-Cast/WorkoutTracker)
 - <b>C++</b>
   - [Stack-Based Evaluator](https://github.com/Andi-Cast/Stack_Based_Evaluator/tree/main)
