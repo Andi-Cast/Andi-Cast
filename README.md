@@ -22,7 +22,7 @@ I'm a first-generation computer science graduate passionate about building real-
 ### 🛒 [E-Commerce Store Backend API](https://github.com/Andi-Cast/ECommerceStoreSpringRESTfulAPI)  
 A secure, scalable backend system built using **Java**, **Spring Boot**, and **MySQL**, featuring JWT-based authentication, entity mapping with MapStruct, and endpoints for product and order management.
 
-### 📊 [Cybersecurity Threat Detection System using Amazon SageMaker]([https://github.com/Andi-Cast/CryptoTrackerApp1.0](https://github.com/Andi-Cast/cybersecurity-threat-detection-sagemaker))  
+### 📊 [Cybersecurity Threat Detection System using Amazon SageMaker]([https://github.com/Andi-Cast/CryptoTrackerApp1.0](https://github.com/Andi-Cast/cybersecurity-threat-detection-sagemaker)  
 Cloud-based project using Amazon SageMaker, AWS Lambda, and Amazon S3 to detect anomalous network activity that may indicate cyberattacks such as DDoS, unauthorized access, or phishing attempts.
 
 ### 🥬 [Perishable Inventory Management System](https://github.com/Andi-Cast/inventory-app)  
