@@ -7,6 +7,16 @@ I'm a first-generation computer science graduate passionate about building real-
 
 ---
 
+## 🎓 Education and Certifications
+
+**Purdue University**  
+Bachelor of Science in Computer Science  
+
+- AWS Certified Cloud Practitioner  
+- AWS AI Practitioner  
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages:** Java, JavaScript, TypeScript, HTML5, CSS  
