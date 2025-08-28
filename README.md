@@ -12,8 +12,8 @@ I'm a first-generation computer science graduate passionate about building real-
 **Purdue University**  
 Bachelor of Science in Computer Science  
 
-- AWS Certified Cloud Practitioner  
-- AWS AI Practitioner  
+**AWS Certified Cloud Practitioner**  
+**AWS AI Practitioner**  
 
 ---
 
