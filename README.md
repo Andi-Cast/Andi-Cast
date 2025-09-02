@@ -29,6 +29,10 @@ Bachelor of Science in Computer Science
 
 ## 🔧 Featured Projects
 
+### 🛒 [RAG AI Employee Handbook Assistant](https://github.com/Andi-Cast/Company_RAG_AI)  
+An **AI-powered full-stack chatbot** that acts as an *internal knowledge assistant*.  
+This project demonstrates how companies can use **Retrieval-Augmented Generation (RAG)** to provide employees with instant, AI-driven answers about internal policies and documentation.
+
 ### 🛒 [E-Commerce Store Backend API](https://github.com/Andi-Cast/ECommerceStoreSpringRESTfulAPI)  
 A secure, scalable backend system built using **Java**, **Spring Boot**, and **MySQL**, featuring JWT-based authentication, entity mapping with MapStruct, and endpoints for product and order management.
 
