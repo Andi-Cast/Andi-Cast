@@ -19,7 +19,7 @@ Bachelor of Science in Computer Science
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, JavaScript, TypeScript, HTML5, CSS  
+**Languages:** Python, Java, JavaScript, TypeScript, HTML5, CSS  
 **Frameworks & Libraries:** Spring Boot, React, Node.js, Express, Tailwind CSS  
 **Databases:** MySQL, MongoDB  
 **Tools:** Git, GitHub, IntelliJ, Visual Studio Code, Postman, JPA Buddy, MapStruct  
