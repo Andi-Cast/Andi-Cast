@@ -29,7 +29,7 @@ Bachelor of Science in Computer Science
 
 ## 🔧 Featured Projects
 
-### 🛒 [RAG AI Employee Handbook Assistant](https://github.com/Andi-Cast/Company_RAG_AI)  
+### 🤖 [RAG AI Employee Handbook Assistant](https://github.com/Andi-Cast/Company_RAG_AI)  
 An **AI-powered full-stack chatbot** that acts as an *internal knowledge assistant*.  
 This project demonstrates how companies can use **Retrieval-Augmented Generation (RAG)** to provide employees with instant, AI-driven answers about internal policies and documentation.
 
