@@ -1,52 +1,70 @@
-# 👋 Hi, I'm Andi Castillo-Mauricio
+# Hi, I'm Andi 👋
 
-I'm a first-generation computer science graduate passionate about building real-world software that solves real-world problems. I enjoy working across the stack—from designing RESTful APIs to building responsive user interfaces—and I'm currently focused on strengthening my backend and cloud development skills.
+**Software Engineer · Applied AI & Machine Learning · [M.S. field] @ [University], Dec 2027**
 
-🌱 Currently expanding my knowledge in cloud infrastructure through AWS learning plans.  
-💻 Always looking to grow through hands-on projects, feedback, and real-world challenges.
+I'm a first-generation college graduate who loves building new tools and apps. I still build full-stack applications regularly, because AI only delivers value when it lives inside well-engineered software. I got into AI because it's already shaping everyone's lives, and I want to help companies adopt it responsibly so the benefits reach everyone, not just a few.
 
----
+My focus is on what makes AI trustworthy: rigorous evaluation to confirm it actually works, thoughtful guardrails to keep it safe, and systems people can rely on with sensitive data.
 
-## 🎓 Education and Certifications
+🔍 Open to [AI / ML / backend] engineering roles &nbsp;·&nbsp; 📍 Indianapolis, IN · Chicago, IL · New York, NY · Remote · Open to relocation
 
-**Purdue University**  
-Bachelor of Science in Computer Science  
-
-**AWS Certified Cloud Practitioner**  
-**AWS AI Practitioner**  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python, Java, JavaScript, TypeScript, HTML5, CSS  
-**Frameworks & Libraries:** Spring Boot, React, Node.js, Express, Tailwind CSS  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, IntelliJ, Visual Studio Code, Postman, JPA Buddy, MapStruct  
-**Cloud Exposure:** AWS (EC2, S3, Lambda, SageMaker, CloudWatch, IAM)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andi--castillo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-castillo/)
+[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?logo=gmail&logoColor=white)](mailto:[your-email])
 
 ---
 
 ## 🔧 Featured Projects
 
-### 🤖 [RAG AI Employee Handbook Assistant](https://github.com/Andi-Cast/Company_RAG_AI)  
-An **AI-powered full-stack chatbot** that acts as an *internal knowledge assistant*.  
-This project demonstrates how companies can use **Retrieval-Augmented Generation (RAG)** to provide employees with instant, AI-driven answers about internal policies and documentation.
+### 🔐 [Secure Multi-Technique RAG](https://github.com/Andi-Cast/RAG_Implementations) &nbsp;`in progress`
 
-### 🛒 [E-Commerce Store Backend API](https://github.com/Andi-Cast/ECommerceStoreSpringRESTfulAPI)  
-A secure, scalable backend system built using **Java**, **Spring Boot**, and **MySQL**, featuring JWT-based authentication, entity mapping with MapStruct, and endpoints for product and order management.
+A RAG system over ~92K chunks of synthetic medical records, built around one question: **what happens when different users are legally allowed to see different parts of the same data?**
 
-### 📊 [Cybersecurity Threat Detection System using Amazon SageMaker](https://github.com/Andi-Cast/cybersecurity-threat-detection-sagemaker)
-Cloud-based project using Amazon SageMaker, AWS Lambda, and Amazon S3 to detect anomalous network activity that may indicate cyberattacks such as DDoS, unauthorized access, or phishing attempts.
+- Benchmarks a retrieval ladder (dense → hybrid RRF → cross-encoder rerank → contextual compression) with hand-implemented Recall@k, MRR, and nDCG. Hybrid + reranking lifted MRR from 0.38 to 0.61 on the pilot gold set.
+- Security layer: role-based access control enforced *inside* the vector query (fail-closed, never a post-filter), PII redaction, and prompt-injection defense, each measured with its own metrics.
+- No LangChain; orchestration is hand-rolled so every step stays inspectable.
 
-### 🥬 [Perishable Inventory Management System](https://github.com/Andi-Cast/inventory-app)  
-Inspired by my experience in grocery retail, this full-stack app (React + Spring Boot) helps managers track expiration dates and minimize food waste with user roles and visual expiration indicators.
-
-### 🤖 Facial Feature Detection Capstone  
-Trained neural networks to detect eyes, mouths, faces, and hands across 27,000+ video frames using **MATLAB**, **FasterRCNN**, and custom datasets—achieved IoU > 50 on 4/5 features.
+**Stack:** Python · PostgreSQL + pgvector · sentence-transformers · Docker · pytest
 
 ---
 
-## 📫 Let's Connect
+### 🌧️ [Rain Tomorrow Classifier](https://github.com/Andi-Cast/LogisticRegressionWeatherClassifier)
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/andi-castillo) or check out more of my work here on GitHub. I'm always open to learning, collaborating, and growing with others in the tech community.
+Predicts next-day rain at Australian weather stations, then tests whether the model generalizes to an independent Bureau of Meteorology dataset.
+
+- Chronological train/validation/test split to prevent leakage; class imbalance handled with a weighted loss.
+- Decision threshold tuned for recall rather than defaulting to 0.5.
+- Out-of-source validation reached 0.79 ROC-AUC and showed how same-source metrics overstate real-world performance.
+
+**Stack:** Python · PyTorch · scikit-learn · pandas · TensorBoard
+
+---
+
+### 👁️ Facial Feature Detection (Capstone)
+
+Object detectors for eyes, mouths, faces, and hands trained on 27,000+ video frames with custom-labeled datasets.
+
+- Achieved IoU > 50 on 4 of 5 target features.
+
+**Stack:** MATLAB · Faster R-CNN
+
+---
+
+## 🛠️ Tech Stack
+
+[![Tech stack](https://skillicons.dev/icons?i=py,pytorch,sklearn,matlab,postgres,docker,aws,java,spring,js,ts,react,nodejs,mysql,mongodb,git&perline=8)](https://skillicons.dev)
+
+**AI/ML:** RAG · pgvector · hybrid search · cross-encoder reranking · retrieval evaluation · object detection · classification
+**AWS:** EC2 · S3 · Lambda · SageMaker · CloudWatch · IAM
+
+---
+
+## 🎓 Education & Certifications
+
+- **M.S. AI and ML**, Purdue University (expected December 2027)
+- **B.S. Computer Science**, Purdue University
+- **AWS Certified Cloud Practitioner**
+- **AWS Certified AI Practitioner**
+
+---
+
+<sub>First-gen CS grad · Always happy to talk shop, collaborate, or get feedback on my work.</sub>
